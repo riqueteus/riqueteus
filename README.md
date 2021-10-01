@@ -6,7 +6,6 @@
 )](https://www.instagram.com/riqueteus/?hl=pt-br)
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=riqueteus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueteus&layout=compact&langs_count=7&theme=merko"/>
 </div>
