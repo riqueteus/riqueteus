@@ -10,7 +10,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueteus&layout=compact&langs_count=6&theme=merko"/>
 </div>
     
-## Tecnologias em Aprendizado!
+## Tecnologias em Aprendizado 👨🏽‍💻
 
 <div aling= "center" style="display: inline_block">
     
@@ -23,5 +23,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 
 </div><br/>
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/riqueteus/count.svg" />
+ </p>
+                                                                                                
+                                                                              
 
 
