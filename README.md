@@ -2,8 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-4c4ce6?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mateus-henrique-sisan/)
-[![Instagram](https://img.shields.io/badge/Instagram-e02d24?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/riqueteus/?hl=pt-br)
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=riqueteus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
