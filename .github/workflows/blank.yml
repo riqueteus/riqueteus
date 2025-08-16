@@ -1,4 +1,4 @@
-name: generate pacman animation
+name: Gerar animação Pac-Man
 
 on:
   push:
@@ -15,20 +15,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout do repositório
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Generate pacman graphs
+      - name: Gerar gráficos Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Commit and push graphs
+      - name: Configurar Git
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "[email protected]"
+          git config user.email "[email protected]"
+
+      - name: Commit e push dos gráficos
+        run: |
           git add -A output
-          git commit -m "Update pac-man graphs [skip ci]" || echo "No changes to commit"
+          git commit -m "Atualizar gráficos Pac-Man [skip ci]" || echo "Sem alterações para commit"
           git push
